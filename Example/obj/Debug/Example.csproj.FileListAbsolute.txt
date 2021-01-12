@@ -1,0 +1,7 @@
+C:\Users\Oxi\source\repos\Example\bin\Debug\Example.exe.config
+C:\Users\Oxi\source\repos\Example\bin\Debug\Example.exe
+C:\Users\Oxi\source\repos\Example\bin\Debug\Example.pdb
+C:\Users\Oxi\source\repos\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\Oxi\source\repos\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\Oxi\source\repos\Example\obj\Debug\Example.exe
+C:\Users\Oxi\source\repos\Example\obj\Debug\Example.pdb
